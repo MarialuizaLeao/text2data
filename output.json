@@ -1,0 +1,25 @@
+[
+{"nome": "Socrates", "influences": "Prodicus", "ja pesquisados": ["Socrates"]},
+{"nome": "Socrates", "influences": "Anaxagoras", "ja pesquisados": ["Socrates"]},
+{"nome": "Socrates", "influences": "Archelaus (philosopher)", "ja pesquisados": ["Socrates"]},
+{"nome": "Socrates", "influences": "Damon of Athens", "ja pesquisados": ["Socrates"]},
+{"nome": "Socrates", "influences": "Parmenides", "ja pesquisados": ["Socrates"]},
+{"nome": "Anaxagoras", "influences": "Ionian School (philosophy)", "ja pesquisados": ["Socrates", "Anaxagoras", "Prodicus"]},
+{"nome": "Parmenides", "influences": "Xenophanes", "ja pesquisados": ["Damon of Athens", "Socrates", "Archelaus (philosopher)", "Prodicus", "Parmenides", "Anaxagoras"]},
+{"nome": "Parmenides", "influences": "Heraclitus", "ja pesquisados": ["Damon of Athens", "Socrates", "Archelaus (philosopher)", "Prodicus", "Parmenides", "Anaxagoras"]},
+{"nome": "Heraclitus", "influences": "Bias of Priene", "ja pesquisados": ["Damon of Athens", "Heraclitus", "Ionian School (philosophy)", "Xenophanes", "Socrates", "Archelaus (philosopher)", "Prodicus", "Parmenides", "Anaxagoras"]},
+{"nome": "Heraclitus", "influences": "Zoroastrianism", "ja pesquisados": ["Damon of Athens", "Heraclitus", "Ionian School (philosophy)", "Xenophanes", "Socrates", "Archelaus (philosopher)", "Prodicus", "Parmenides", "Anaxagoras"]},
+{"nome": "Heraclitus", "influences": "Historical Vedic religion", "ja pesquisados": ["Damon of Athens", "Heraclitus", "Ionian School (philosophy)", "Xenophanes", "Socrates", "Archelaus (philosopher)", "Prodicus", "Parmenides", "Anaxagoras"]}
+][
+{"nome": "Socrates", "influences": "Prodicus", "ja pesquisados": ["Socrates"]},
+{"nome": "Socrates", "influences": "Anaxagoras", "ja pesquisados": ["Socrates"]},
+{"nome": "Socrates", "influences": "Archelaus (philosopher)", "ja pesquisados": ["Socrates"]},
+{"nome": "Socrates", "influences": "Damon of Athens", "ja pesquisados": ["Socrates"]},
+{"nome": "Socrates", "influences": "Parmenides", "ja pesquisados": ["Socrates"]},
+{"nome": "Anaxagoras", "influences": "Ionian School (philosophy)", "ja pesquisados": ["Anaxagoras", "Socrates", "Prodicus"]},
+{"nome": "Parmenides", "influences": "Xenophanes", "ja pesquisados": ["Parmenides", "Archelaus (philosopher)", "Damon of Athens", "Prodicus", "Socrates", "Anaxagoras"]},
+{"nome": "Parmenides", "influences": "Heraclitus", "ja pesquisados": ["Parmenides", "Archelaus (philosopher)", "Damon of Athens", "Prodicus", "Socrates", "Anaxagoras"]},
+{"nome": "Heraclitus", "influences": "Bias of Priene", "ja pesquisados": ["Parmenides", "Ionian School (philosophy)", "Archelaus (philosopher)", "Damon of Athens", "Prodicus", "Socrates", "Heraclitus", "Anaxagoras", "Xenophanes"]},
+{"nome": "Heraclitus", "influences": "Zoroastrianism", "ja pesquisados": ["Parmenides", "Ionian School (philosophy)", "Archelaus (philosopher)", "Damon of Athens", "Prodicus", "Socrates", "Heraclitus", "Anaxagoras", "Xenophanes"]},
+{"nome": "Heraclitus", "influences": "Historical Vedic religion", "ja pesquisados": ["Parmenides", "Ionian School (philosophy)", "Archelaus (philosopher)", "Damon of Athens", "Prodicus", "Socrates", "Heraclitus", "Anaxagoras", "Xenophanes"]}
+]
